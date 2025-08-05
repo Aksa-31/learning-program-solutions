@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.box {
+  width: 300px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+
+dt {
+  font-weight: 500;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
