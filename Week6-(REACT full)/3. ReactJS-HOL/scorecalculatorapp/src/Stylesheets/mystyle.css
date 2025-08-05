@@ -1,0 +1,32 @@
+.formatstyle {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: brown;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.Name, .School, .Total, .Score {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.label-blue {
+  color: blue;
+}
+
+.label-red {
+  color: darkred;
+}
+
+.label-pink {
+  color: mediumvioletred;
+}
+
+.label-green {
+  color: green;
+}
